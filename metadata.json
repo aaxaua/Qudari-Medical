@@ -1,0 +1,6 @@
+{
+  "name": "Qadri Medical Agency Management System",
+  "description": "Enterprise-grade Medical Agency ERP with inventory, billing, ledgers, reports, analytics, and AI business assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

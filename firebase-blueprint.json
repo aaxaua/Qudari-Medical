@@ -1,0 +1,20 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Workspaces",
+      "description": "Per-user application data isolated by user ID",
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        },
+        "displayName": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
